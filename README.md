@@ -5,7 +5,7 @@
 
 - 👯 I’m also working on [Skiconnect](https://skiconnect.herokuapp.com)
 
-- - 🔭 I’m currently learning **PHP**
+- 🔭 I’m currently learning **PHP**
 
 - 👨‍💻 All of my projects are available at [https://devayodiya.netlify.app/](https://devayodiya.netlify.app/)
 
