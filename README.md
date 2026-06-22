@@ -87,7 +87,7 @@ My long-term goal is to build impactful AI products, help businesses leverage te
 
 ## 🌐 Portfolio
 
-🔗 **Portfolio:** https://devayodiya.netlify.app/
+🔗 **Portfolio:** https://ayodejioludiya.name.ng/
 
 ---
 
