@@ -1,24 +1,116 @@
 <h1 align="center">Hi 👋, I'm Ayodeji Oludiya</h1>
-<h3 align="center">A passionate frontend developer from Nigeira</h3>
 
-- 🔭 I’m currently working on [Zuri Chat](https://zuri.chat)
+<h3 align="center">
+Full-Stack Software Engineer • AI Enthusiast • Future Tech Consultant
+</h3>
 
-- 👯 I’m also working on [Skiconnect](https://skiconnect.herokuapp.com)
-
-- 🔭 I’m currently learning **PHP**
-
-- 👨‍💻 All of my projects are available at [https://devayodiya.netlify.app/](https://devayodiya.netlify.app/)
-
-- 📫 How to reach me **devayodiya@gmail.com**
-
-- 📄 Know about my experiences [https://devayodiya.netlify.app/](https://devayodiya.netlify.app/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ayodiyah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayodiyah" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ayodiyah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayodiyah" height="30" width="40" /></a>
-<a href="https://fb.com/oludiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="oludiya" height="30" width="40" /></a>
+<p align="center">
+Building scalable web applications, AI-powered solutions, and digital products that solve real-world problems.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
+
+## 🚀 About Me
+
+I'm a passionate Full-Stack Software Engineer from Nigeria with experience designing and building modern web applications using JavaScript, TypeScript, React, Next.js, Angular, Node.js, PHP, and cloud technologies.
+
+Over the years, I've worked on products ranging from business management platforms and enterprise dashboards to customer-facing web applications. I enjoy turning complex business requirements into elegant, scalable, and maintainable solutions.
+
+My long-term goal is to build impactful AI products, help businesses leverage technology effectively, and grow into a world-class technology consultant.
+
+### 🌱 Currently Learning
+
+- Artificial Intelligence & Machine Learning
+- Spring Framework
+- System Design & Software Architecture
+- Advanced Cloud Technologies
+
+### 🔭 Currently Building
+
+- Modern web applications with Next.js and TypeScript
+- Business management and workflow automation platforms
+- AI-powered software solutions
+- High-value digital products and SaaS platforms
+
+### 💡 Interests
+
+- Artificial Intelligence
+- Software Architecture
+- Product Development
+- Business Automation
+- Startup Growth
+- Real Estate Technology
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+![Lumen](https://img.shields.io/badge/Lumen-E74430?style=for-the-badge)
+
+### Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+### Tools & DevOps
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+
+---
+
+## 🎯 What I'm Focused On
+
+- Building AI-powered applications
+- Creating scalable SaaS products
+- Developing enterprise-grade web platforms
+- Learning advanced system architecture
+- Growing towards technical consulting and entrepreneurship
+
+---
+
+## 🌐 Portfolio
+
+🔗 **Portfolio:** https://devayodiya.netlify.app/
+
+---
+
+## 📫 Let's Connect
+
+<p align="left">
+<a href="https://twitter.com/ayodiyah">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/ayodiyah">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:devayodiya@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy building products at the intersection of software engineering, artificial intelligence, and business innovation. Every project is an opportunity to learn, create value, and solve meaningful problems.
+
+> "Great software isn't just about code—it's about solving problems that matter."
